@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently expanding my knowledge on Azure Cloud knowledge and learning DevOps related skills
+- 🌱 I’m currently expanding my Azure Cloud knowledge and learning DevOps related skills
 - ⚡ Fun fact: I moved from an art major to Computer Science more than 10 years ago but I still enjoy sketching and doodling once in a while
 
 <!--
